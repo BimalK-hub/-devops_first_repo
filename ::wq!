@@ -1,0 +1,16 @@
+Add three files and new text in that
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Tue Dec 2 05:08:35 2025 +0000
+#
+# On branch My_new_branch
+# Your branch and 'origin/My_new_branch' have diverged,
+# and have 1 and 1 different commits each, respectively.
+#
+# Changes to be committed:
+#	new file:   myfile1.txt
+#	new file:   myfile2.txt
+#	new file:   myfile3.txt
+#
